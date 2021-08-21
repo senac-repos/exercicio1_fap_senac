@@ -1,0 +1,22 @@
+{
+  "name": "exercicio1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Somador.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoenca/Senac_2021-02_FAP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagoenca/Senac_2021-02_FAP/issues"
+  },
+  "homepage": "https://github.com/thiagoenca/Senac_2021-02_FAP#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
